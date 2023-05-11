@@ -1,0 +1,54 @@
+body{
+    background-color: #f3ebeb;
+}
+.navbar-img {
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+.navbar {
+    background-color: #000;
+}
+
+.navbar-toggler{
+    cursor: pointer;
+    background-color: #f0a61c;
+}
+
+.navbar-toggler:hover{
+    background-color: #f0c478;
+    transition: 1s;
+}
+
+.btn-icone{
+    width: 80%;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #f0c478;
+}
+
+.nav-link-dev{
+    color: #3f3e3e;
+}
+
+.form-control{
+    border-radius: 8px;
+    border: 2px solid #404142;
+}
+
+.btn-outline-success {
+    border-radius: 8px;
+    border-color: #f0c478;
+    color: #f0c478;
+}
+
+.btn-outline-success:hover{
+    background-color: #000;
+    border-color: #f0c478;
+}
